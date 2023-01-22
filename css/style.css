@@ -2819,4 +2819,7 @@ html.is-animating .fade-left {
   }
 }
 
+.cursor-pointer {
+  cursor: pointer;
+}
 /*# sourceMappingURL=style.css.map */
